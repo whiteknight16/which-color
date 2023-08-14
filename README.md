@@ -23,8 +23,7 @@ A fun game where you will be presented with a color name but in different color 
 ## **Screenshots 📸**
 
 <br>
-![image](https://github.com/whiteknight16/which-color/blob/main/Which_Color.png)
-
+<img src="./image.png">
 
 <br>
 
