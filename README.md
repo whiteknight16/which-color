@@ -27,5 +27,4 @@ A fun game where you will be presented with a color name but in different color 
 
 <br>
 
-## **Working video 📹**
-<!-- add your working video over here -->
+
